@@ -5,7 +5,7 @@ import hero from "../foto/hero-right.svg";
 const headerData = [
   {
     baslik: "Kazım",
-    aciklama1: "I am a Frontend Developer...",
+    aciklama1: "I am a Full Stack Developer...",
     aciklama2:
       "...who likes to craft solid and scalable frontend products with great user experiences.",
     github: github,
